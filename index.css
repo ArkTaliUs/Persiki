@@ -1,8 +1,7 @@
 body {
 	background: url(Pers.jpg);
 	overflow: hidden;
-	max-width: 2000px;
-	max-height: 760;
+        background-repeat: no-repeat;
 }
 #H1 {
 	baCKground-color: #ffe5b4;
